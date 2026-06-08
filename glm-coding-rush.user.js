@@ -1,16 +1,16 @@
 // ==UserScript==
 // @name         GLM Coding Rush - 智谱编程助手抢购脚本
-// @namespace    https://gist.github.com/LessUp
+// @namespace    https://github.com/1zhixingheyi/glm-coding-invite
 // @version      1.1.0
 // @description  智谱 GLM Coding 一键抢购脚本 — 自动解锁售罄按钮 / 高速重试引擎 / bizId 双重校验 / 错误弹窗自动恢复 / 支付弹窗保护 / 秒级定时触发 / 可拖拽浮动面板
-// @author       LessUp
+// @author       LessUp (modified by 1zhixingheyi)
 // @match        *://www.bigmodel.cn/*
 // @match        https://bigmodel.cn/glm-coding*
 // @run-at       document-start
 // @grant        none
 // @license      MIT
-// @homepageURL  https://gist.github.com/LessUp/e609e779fb7773cf279942f57a65719a
-// @supportURL   https://gist.github.com/LessUp/e609e779fb7773cf279942f57a65719a
+// @homepageURL  https://github.com/1zhixingheyi/glm-coding-invite
+// @supportURL   https://github.com/1zhixingheyi/glm-coding-invite/issues
 // ==/UserScript==
 
 /**
@@ -18,7 +18,7 @@
  *   GLM Coding Rush v1.1.0 — 智谱编程助手抢购脚本
  * ═══════════════════════════════════════════════════════════════
  *
- *   项目地址 : https://gist.github.com/LessUp  (Star ⭐ 收藏)
+ *   项目地址 : https://github.com/1zhixingheyi/glm-coding-invite  (Star ⭐ 收藏)
  *   邀请链接 : https://www.bigmodel.cn/glm-coding?ic=CRLJNXTZV8
  *              (通过邀请链接新购可立减 5%)
  *
@@ -52,7 +52,7 @@
  *   因使用本脚本产生的任何后果由使用者自行承担。
  *
  * ─── 反馈交流 ─────────────────────────────────────────────────
- *   欢迎在 Gist 评论区留言反馈 Bug 或功能建议！
+ *   欢迎在 GitHub Issues 留言反馈 Bug 或功能建议！
  *   觉得好用请 Star ⭐ 并分享给需要的朋友 🙏
  *
  * ─── 更新日志 ─────────────────────────────────────────────────
