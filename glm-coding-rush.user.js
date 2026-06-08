@@ -3,7 +3,7 @@
 // @namespace    https://github.com/1zhixingheyi/glm-coding-invite
 // @version      1.1.0
 // @description  智谱 GLM Coding 一键抢购脚本 — 自动解锁售罄按钮 / 高速重试引擎 / bizId 双重校验 / 错误弹窗自动恢复 / 支付弹窗保护 / 秒级定时触发 / 可拖拽浮动面板
-// @author       LessUp (modified by 1zhixingheyi)
+// @author       LessUp
 // @match        *://www.bigmodel.cn/*
 // @match        https://bigmodel.cn/glm-coding*
 // @run-at       document-start
@@ -11,6 +11,8 @@
 // @license      MIT
 // @homepageURL  https://github.com/1zhixingheyi/glm-coding-invite
 // @supportURL   https://github.com/1zhixingheyi/glm-coding-invite/issues
+// @downloadURL  https://github.com/1zhixingheyi/glm-coding-invite/raw/main/glm-coding-rush.user.js
+// @updateURL    https://github.com/1zhixingheyi/glm-coding-invite/raw/main/glm-coding-rush.user.js
 // ==/UserScript==
 
 /**
