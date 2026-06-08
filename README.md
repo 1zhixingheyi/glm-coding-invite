@@ -73,12 +73,15 @@
 
 ```
 邀请码：CRLJNXTZV8
-链接：https://www.bigmodel.cn/glm-coding?ic=CRLJNXTZV8
 ```
 
-通过此链接订阅 → 你获得拼好模优惠，我获得最高 20% 赠金。**双赢。**
+> ⚡ **你什么都不用做！** 打开 `bigmodel.cn/glm-coding`，脚本在后台自动把 URL 注入 `?ic=CRLJNXTZV8`。
+> 
+> 不需要点特殊链接，不需要输邀请码，不需要任何额外操作。**脚本替你搞定一切。**
 
-> 📌 脚本已内置此邀请码，安装即生效，无需手动设置。
+通过此邀请码下单 → 你获得拼好模优惠，我获得赠金。**双赢。**
+
+> 🔍 验证方法：打开页面后看地址栏，会自动变成 `bigmodel.cn/glm-coding?ic=CRLJNXTZV8`
 
 ---
 
